@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF017b8D0b8c925905fC7215359800d5Fa1219d78",
+  "SCAN_LINK": "https://etherscan.io/address/0xF017b8D0b8c925905fC7215359800d5Fa1219d78",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Creegz Club NFT",
+  "SYMBOL": "OFC",
+  "MAX_SUPPLY": 55555,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/officialcreegznft",
+  "SHOW_BACKGROUND": true
+}
