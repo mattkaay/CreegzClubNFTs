@@ -9,7 +9,7 @@
   "NFT_NAME": "Creegz Club NFT",
   "SYMBOL": "OFC",
   "MAX_SUPPLY": 5555,
-  "WEI_COST": 0000000000000000001,
+  "WEI_COST": 1,
   "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opensea",
